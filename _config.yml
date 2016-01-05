@@ -1,0 +1,28 @@
+name: Sergio Granados
+favicon: null
+layout_spectrum: 0.2536429555620998
+typography_spectrum: 0.8705815011635423
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.08680332079529762
+  lightness: 0.19281307165510952
+  saturation: 0.242408218793571
+  rhythmicContrast: 0.44948866590857506
+purpose: []
